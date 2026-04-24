@@ -7,7 +7,7 @@
 
 Cuando volví a estudiar datos me di cuenta de que la mayoría de los proyectos de portfolio usan datasets de Kaggle que todo el mundo ya vio. Quería hacer algo con datos reales y relevantes para la región. Este dashboard consume la API pública del Banco Mundial en tiempo real y visualiza indicadores macroeconómicos de 7 países de LATAM.
 
-**[→ Probalo en vivo acá](https://economic-viz-latam-hznaudfouciqzgrsypbvln.streamlit.app/)**
+**[→ Probalo en vivo acá](https://economic-viz-latam-eubizz88pctu7nrsu3o9jc.streamlit.app/)**
 
 ---
 
